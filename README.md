@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning**
 
-- 🤝 I’m looking for help with **Research on Convex Optimization**
+- 🤝 I’m looking for help with **Research on Distributed Convex Optimization**
 
 - 💬 Ask me about **Python, Machine Learning, Convex Optimization**
 
