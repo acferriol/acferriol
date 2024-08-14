@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Cespón Ferriol</h1>
 <h3 align="center">A passionate Machine Learning Research</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acferriol" alt="acferriol" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=acferriol&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Central University "Marta Abreu" from Las Villas**
 
