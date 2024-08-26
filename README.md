@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Cespón Ferriol</h1>
-<h3 align="center">A passionate Machine Learning Research</h3>
+<h3 align="center">A passionate Machine Learning Researcher</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=acferriol&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
