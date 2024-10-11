@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acferriol&" alt="acferriol" /></p>
 
-![](https://komarev.com/ghpvc/?acferriol)
+![](https://komarev.com/ghpvc/?username=acferriol)
