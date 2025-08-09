@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Central University "Marta Abreu" from Las Villas**
 
-- 🌱 I’m currently learning **Federated Learning, Flower**
+- 🌱 I’m currently learning **Explainable Artificial Intelligence(XAI), Large Language Models(LLMs) and LangChain**
 
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning**
+- 👯 I’m looking to collaborate on **Data Science, Machine Learning, XAI, LLMS**
 
-- 🤝 I’m looking for help with **Research on Distributed Convex Optimization**
+- 🤝 I’m looking for help with **Research on XAI**
 
-- 💬 Ask me about **Python, Machine Learning, Convex Optimization**
+- 💬 Ask me about **Python, Machine Learning, Convex Optimization, Maths**
 
 - 📫 How to reach me **cesponalejandro@gmail.com**
 
